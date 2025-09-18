@@ -18,7 +18,6 @@ This repository showcases a machine learning solution for predicting house sale 
 - [Project Overview](#project-overview)
 - [Key Technologies](#key-technologies)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Methodology](#methodology)
 - [Performance Metrics](#performance-metrics)
 - [Contributing](#contributing)
@@ -40,15 +39,6 @@ git clone https://github.com/abubakarpungiwale/house-price-prediction.git
 cd house-price-prediction
 pip install -r requirements.txt
 ```
-
-## Usage
-
-1. Place `train.csv` and `test.csv` in `Data/`.
-2. Run:
-   ```bash
-   jupyter notebook House-Price-Prediction-Solution.ipynb
-   ```
-3. Predictions saved as `my_prediction_ensemble.csv`.
 
 ## Methodology
 
