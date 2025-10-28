@@ -1,4 +1,4 @@
-# House Price Prediction: Advanced Regression Model - Build during Data Scientist Intern at Milestone PLM Solutions Pvt. Ltd., Thane
+# House Price Prediction: Advanced Regression Model - Build during Data Scientist at Milestone PLM Solutions Pvt. Ltd., Thane
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/house-price-prediction?style=social)](https://github.com/abubakarpungiwale/house-price-prediction/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/house-price-prediction?style=social)](https://github.com/abubakarpungiwale/house-price-prediction/network)
